@@ -1,11 +1,4 @@
 # Career Trajectory Data Mining
-
-## Team Members
-
-* Gourilakshmi S – 2023BCS0021
-* Adithya K – 2023BCS0051
-* Kshitij Joshi S – 2023BCS0087
-
 ---
 
 ## Problem Statement
