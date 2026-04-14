@@ -279,13 +279,6 @@ The final pipeline provides:
 
 ---
 
-## Contribution
-
-* Adithya K – Load data, clean data, PCA of sector profiles and association rules
-* Gourilakshmi S – sector mapping functions, building Markov matrices, 2nd-order back-off model, user history vectors, archetype k-means, per-sector weight tuning and final evaluation. 
-* Kshitij – User clustering , all 8 visualizations and the final summary block.
----
-
 ## References
 
 * ESCO Classification Framework
