@@ -257,8 +257,6 @@ project-repository/
 │── results/
 │   ├── figures/
 │   ├── tables/
-│── presentation/
-│   └── project_presentation.pptx
 │── output/
 │   └── career_pred12.txt
 ```
